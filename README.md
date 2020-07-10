@@ -2,7 +2,7 @@
 current research on:
 
  - Rust
-    - Rust-Electron RPC status dashboard: [Stadal](https://github.com/phodal/stadal/)
+    - Rust-Electron RPC status app: [Stadal](https://github.com/phodal/stadal/)
     - execute markdown: [Exemd](https://github.com/phodal/exemd)
     - Rust editor: [Rinput](https://github.com/phodal/rinput)
  - [everything as code](https://github.com/phodal/ascode.ink)
