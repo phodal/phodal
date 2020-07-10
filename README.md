@@ -11,3 +11,7 @@ current research on:
     - code as code: [code](https://github.com/phodal/code)
     - docs as code: [ledge](https://github.com/phodal/ledge)
  - [cloud-dev](https://github.com/phodal/cloud-dev)
+
+微信公众号(Chinese)
+
+![QRCode](https://articles.phodal.com/qrcode.jpg)
