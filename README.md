@@ -5,6 +5,7 @@ current research on:
     - Rust-Electron RPC status app: [Stadal](https://github.com/phodal/stadal/)
     - execute markdown: [Exemd](https://github.com/phodal/exemd)
     - Rust editor: [Rinput](https://github.com/phodal/rinput)
+    - Simple JVM: [JVM.Rust](https://github.com/phodal/jvm.rust)
  - [everything as code](https://github.com/phodal/ascode.ink)
     - story as code: [story](https://github.com/phodal/story)
     - design as code: [design](https://github.com/phodal/phodal)
