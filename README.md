@@ -2,8 +2,8 @@
 research on:
 
  - Rust
-    - execute markdown: [Exemd](https://github.com/phodal/exemd)
-    - Android with Rust: [Rapilab](https://github.com/rapilab)
+    - Code Engine: [Scie](https://github.com/phodal/scie/)
+    - IDEA Language Plugin: [Charj](https://github.com/phodal/intellij-charj/)
  - [everything as code](https://github.com/phodal/ascode.ink)
     - story as code: [story](https://github.com/phodal/story)
     - design as code: [design](https://github.com/phodal/phodal)
