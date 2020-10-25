@@ -3,7 +3,9 @@ research on:
 
  - Rust
     - Code Engine: [Scie](https://github.com/phodal/scie/)
-    - IDEA Language Plugin: [Charj](https://github.com/phodal/intellij-charj/)
+    - Charj IDEA Language Plugin: [Intellij Charj](https://github.com/phodal/intellij-charj/)
+    - Charj Language PoC [Charj](https://github.com/phodal/charj-poc/)
+    - Charj Poet [Charj Poet](https://github.com/phodal/charjpoet/)
  - [everything as code](https://github.com/phodal/ascode.ink)
     - story as code: [story](https://github.com/phodal/story)
     - design as code: [design](https://github.com/phodal/phodal)
