@@ -2,8 +2,8 @@
 research on:
 
  - Charj Lang
+    - Charj Language [Charj](https://github.com/phodal/charj/)
     - Charj IDEA Language Plugin: [Intellij Charj](https://github.com/phodal/intellij-charj/)
-    - Charj Language PoC [Charj](https://github.com/phodal/charj-poc/)
     - Charj Poet [Charj Poet](https://github.com/phodal/charjpoet/)
     - Code Engine: [Scie](https://github.com/phodal/scie/)
  - [everything as code](https://github.com/phodal/ascode.ink)
