@@ -6,8 +6,3 @@ research on:
     - Charj IDEA Language Plugin: [Intellij Charj](https://github.com/phodal/intellij-charj/)
     - Charj Poet [Charj Poet](https://github.com/phodal/charjpoet/)
     - Code Engine: [Scie](https://github.com/phodal/scie/)
- - [everything as code](https://github.com/phodal/ascode.ink)
-    - story as code: [story](https://github.com/phodal/story)
-    - design as code: [design](https://github.com/phodal/phodal)
-    - code as code: [code](https://github.com/phodal/code)
- - [cloud-dev](https://github.com/phodal/cloud-dev)
