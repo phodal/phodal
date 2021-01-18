@@ -6,3 +6,9 @@ Working on:
 - Datum transpile engine: [Movable](https://github.com/datum-lang/movable)
 - Datum parser engine :[Typography](https://github.com/datum-lang/movable/tree/master/typography)
 - Code Engine: [Scie](https://github.com/github.com/datum-lang/scie/)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phodal/)
+[![Gmail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:h@phodal.com)
+![Wechat](https://img.shields.io/badge/-phodal02-green?style=flat&logo=Wechat&logoColor=white)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/phodal_huang)
+
