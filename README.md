@@ -5,7 +5,7 @@ Working on:
 - Datum IDEA Language Plugin: [Intellij Datum](https://github.com/github.com/datum-lang/intellij-charj/)
 - Datum transpile engine: [Movable](https://github.com/datum-lang/movable)
 - Datum parser engine :[Typography](https://github.com/datum-lang/movable/tree/master/typography)
-- Code Engine: [Scie](https://github.com/github.com/datum-lang/scie/)
+- Code Engine: [Scie](https://github.com/datum-lang/scie/)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phodal/)
 ![Wechat](https://img.shields.io/badge/-phodal02-green?style=flat&logo=Wechat&logoColor=white)
