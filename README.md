@@ -2,7 +2,7 @@
 Working on:
 
 
-- Architecture Workbench [ArchGuard](https://github.com/archguard/
+- Architecture Workbench [ArchGuard](https://github.com/archguard/)
 - Knowledge Management Tools [Quake](https://github.com/phodal/quake)
 - Datum Language [Datum](https://github.com/datum-lang/datum/)
 
