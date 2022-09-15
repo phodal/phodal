@@ -2,6 +2,7 @@
 Working on:
 
 
+- Graph Engine: [Feakin](https://github.com/feakin/feakin)
 - Architecture Workbench [ArchGuard](https://github.com/archguard/)
 - Knowledge Management Tools [Quake](https://github.com/phodal/quake)
 - Datum Language [Datum](https://github.com/datum-lang/datum/)
