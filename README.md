@@ -4,7 +4,6 @@ Working on:
 - CodeDB: [CodeDB](https://github.com/archguard/codedb-poc)
 - Architecture DSL: [Fklang](https://github.com/feakin/fklang)
 - Knowledge Management Tools [Quake](https://github.com/phodal/quake)
-- Datum Language [Datum](https://github.com/datum-lang/datum/)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phodal/)
 ![Wechat](https://img.shields.io/badge/-phodal02-green?style=flat&logo=Wechat&logoColor=white)
