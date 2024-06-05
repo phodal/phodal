@@ -1,5 +1,6 @@
 Working on:
 
+- [ShireLang](https://github.com/phodal/shire) - Shire offers a straightforward AI Agents Language that enables communication between an LLM and control IDE for automated programming. 
 - [AutoDev for VSCode](https://github.com/unit-mesh/auto-dev-vscode) -  AutoDev - 🧙‍the AI-powered coding wizard . Put the most loved AutoDev AI assistant into your VSCode, and have things done quickly.
 - [AutoDev for Intellij](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Testing feature 🧪 included! 🚀
 - [ArchGuard](https://github.com/archguard/archguard) is an architecture governance tool that can analysis architecture in container, component, code level, database, create architecture fitness functions, and test for architecture rules.
