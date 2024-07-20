@@ -6,7 +6,7 @@ Working on:
 - [ArchGuard](https://github.com/archguard/archguard) is an architecture governance tool that can analysis architecture in container, component, code level, database, create architecture fitness functions, and test for architecture rules.
 - [Fklang](https://github.com/feakin/fklang), 一个基于软件开发工业化思想设计的架构 DSL。 通过显式化的软件架构设计，以确保软件系统描述与实现的一致性，并探索结合 AI 代码生成。
 - [ClickPrompt](https://github.com/prompt-engineering/click-prompt) Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.
-- [Chocolate Factory](https://github.com/unit-mesh/chocolate-factory) is a cutting-edge LLM application engine designed to empower you in creating your very own AI assistant. 
+- [ChocoBuilder](https://github.com/unit-mesh/chocolate-factory) is a cutting-edge LLM application engine designed to empower you in creating your very own AI assistant. 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phodal/)
 ![Wechat](https://img.shields.io/badge/-phodal02-green?style=flat&logo=Wechat&logoColor=white)
